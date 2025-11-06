@@ -78,7 +78,7 @@ These files represent semesters where I earned **Good** or **Excellent Student**
 For collaboration, professional inquiries, or to learn more about my work:  
 
 [![Email Badge](https://img.shields.io/badge/📧%20Email-huyatkg-blue?style=for-the-badge)](mailto:truongtanhuy3006@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-huyatkg-black?style=for-the-badge&logo=github)](https://github.com/huyatkg)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-huyatkg-black?style=for-the-badge&logo=github)](https://github.com/th3y3m)
 
 ---
 
