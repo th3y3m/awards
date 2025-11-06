@@ -1,72 +1,86 @@
-# Honors and Awards Repository
+# 🏅 Honors and Awards Repository
 
-Welcome to my Honors and Awards repository!  
-This repository serves as a collection of my academic and professional achievements.  
-Below, you'll find detailed information about each honor and award, including certificates, recognitions, and academic milestones.
-
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Academic Honors](#academic-honors)
-- [Certificates and Recognitions](#certificates-and-recognitions)
-- [Contact](#contact)
+Welcome to my **Honors and Awards Repository!** 🎓  
+This repository highlights my **academic excellence**, **professional certifications**, and **continuous learning journey** in technology, management, and communication.
 
 ---
 
-## Overview
-
-This repository is a testament to my dedication and hard work across multiple areas — from academic excellence to professional development and online learning.  
-It includes achievements earned during my university semesters as well as certifications from international learning platforms like Coursera and CertNexus.
-
----
-
-## Academic Honors
-
-These files represent semesters in which I achieved **Good** or **Excellent Student** recognition at university:
-
-- **Fall2023.pdf** – Excellent Student (Fall 2023 Semester)  
-- **Spring2024.pdf** – Excellent Student (Spring 2024 Semester)  
-- **Spring2025.pdf** – Excellent Student (Spring 2025 Semester)
-
-Additional coursework and academic achievements:
-- **TRS601 - English 6.pdf** – English Proficiency equivalent to **IELTS 6.0**
-- **On The Job Training.pdf** – Internship semester (practical training experience)
+## 📘 Table of Contents
+- [🌟 Overview](#-overview)
+- [🎓 Academic Honors](#-academic-honors)
+- [📜 Certificates and Recognitions](#-certificates-and-recognitions)
+- [📬 Contact](#-contact)
 
 ---
 
-## Certificates and Recognitions
+## 🌟 Overview
 
-### Professional and Technical Certifications
-- **CertNexus Certified Ethical Emerging Technologist.pdf** – Credential in emerging technology ethics and responsible innovation.  
-- **Project Management Principles and Practices.pdf** – Certification in essential project management methodologies.  
-- **Scrum Master Certification.pdf** – Certification in Agile and Scrum framework for software project delivery.  
-- **Software Development Lifecycle.pdf** – Certificate covering SDLC models, planning, and execution.
-
-### Digital Skills and Specializations
-- **Google AI Essentials.pdf** – Introduction to AI fundamentals by Google.  
-- **IBSTPI.pdf** – Certification related to instructional design or professional standards.  
-- **Java Enterprise Edition.pdf** – Certification in enterprise-level Java development.  
-- **User Experience Research.pdf** – Certificate in UX research methods and usability testing.  
-- **Web Design for Everybody.pdf** – Certificate in HTML, CSS, and responsive web design.  
-- **KS57_1_Digital Ecosystem From Governance to Business.pdf** – Certification in digital transformation ecosystem governance.  
-- **KS57_2_Key Activities of Digital Transformation-1.pdf** – Certificate covering operational aspects of digital transformation.
-
-### Academic Skill Development
-- **Academic English Writing.pdf** – Certificate in advanced academic writing and research communication.  
-- **Academic Skills for University Success.pdf** – Certificate in study, writing, and communication skills for higher education.  
-- **Computer Communications.pdf** – Certificate in computer networking and communications fundamentals.
+This repository is a testament to my **dedication, growth, and curiosity** across multiple disciplines.  
+It includes:
+- 🏫 University achievements and semester honors  
+- 🌐 Professional and technical certifications from **Coursera**, **Google**, **CertNexus**, and more  
+- 💡 Skills development in AI, UX, project management, and software engineering  
 
 ---
 
-## Contact
+## 🎓 Academic Honors
 
-For more information or inquiries, please feel free to reach out:
+These files represent semesters where I earned **Good** or **Excellent Student** distinctions:
 
-- **Email:** [huyatkg](mailto:truongtanhuy3006@gmail.com)
+| 📄 File | 🏆 Achievement |
+|---------|----------------|
+| **Fall2023.pdf** | Excellent Student (Fall 2023 Semester) |
+| **Spring2024.pdf** | Excellent Student (Spring 2024 Semester) |
+| **Spring2025.pdf** | Excellent Student (Spring 2025 Semester) |
+
+### Additional Academic Achievements
+- **TRS601 - English 6.pdf** – English proficiency equivalent to **IELTS 6.0**  
+- **On The Job Training.pdf** – Internship semester demonstrating applied industry experience  
 
 ---
 
-Thank you for visiting my Honors and Awards repository!  
-Your interest and support are greatly appreciated.
+## 📜 Certificates and Recognitions
+
+### 💼 Professional and Technical Certifications
+| Certificate | Description |
+|--------------|-------------|
+| **CertNexus Certified Ethical Emerging Technologist.pdf** | Credential in ethical and responsible technology innovation |
+| **Project Management Principles and Practices.pdf** | Mastery of core project management methodologies |
+| **Scrum Master Certification.pdf** | Agile and Scrum framework certification |
+| **Software Development Lifecycle.pdf** | Knowledge of SDLC planning and implementation |
+
+---
+
+### 🤖 Digital Skills and Specializations
+| Certificate | Description |
+|--------------|-------------|
+| **Google AI Essentials.pdf** | Fundamentals of Artificial Intelligence by Google |
+| **IBSTPI.pdf** | Instructional design and professional standards certification |
+| **Java Enterprise Edition.pdf** | Enterprise-level Java programming skills |
+| **User Experience Research.pdf** | UX research and usability evaluation |
+| **Web Design for Everybody.pdf** | Responsive web design and accessibility |
+| **KS57_1_Digital Ecosystem From Governance to Business.pdf** | Governance in digital transformation |
+| **KS57_2_Key Activities of Digital Transformation-1.pdf** | Operational strategies in digital transformation |
+
+---
+
+### 🧠 Academic Skill Development
+| Certificate | Description |
+|--------------|-------------|
+| **Academic English Writing.pdf** | Advanced academic writing and research communication |
+| **Academic Skills for University Success.pdf** | Core academic and communication skills for higher education |
+| **Computer Communications.pdf** | Fundamentals of computer networking and communication systems |
+
+---
+
+## 📬 Contact
+
+For collaboration, professional inquiries, or to learn more about my work:  
+
+[![Email Badge](https://img.shields.io/badge/📧%20Email-huyatkg-blue?style=for-the-badge)](mailto:truongtanhuy3006@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-huyatkg-black?style=for-the-badge&logo=github)](https://github.com/huyatkg)
+
+---
+
+✨ *Thank you for visiting my Honors and Awards Repository!*  
+Every certificate reflects my **commitment to learning**, **innovation**, and **excellence**.  
