@@ -32,6 +32,7 @@ These files represent semesters where I earned **Good** or **Excellent Student**
 | **Fall2023.pdf** | Excellent Student (Fall 2023 Semester) |
 | **Spring2024.pdf** | Excellent Student (Spring 2024 Semester) |
 | **Spring2025.pdf** | Excellent Student (Spring 2025 Semester) |
+| **Summer2025.pdf** | Excellent Student (Summer 2025 Semester) |
 
 ### Additional Academic Achievements
 - **TRS601 - English 6.pdf** – English proficiency equivalent to **IELTS 6.0**  
